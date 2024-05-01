@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="36" viewBox="0 0 60 36">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 83.653px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        font-family: Arial;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 61.883px;
+      }
+    </style>
+  </defs>
+  <text id="D" class="cls-1" transform="translate(2.667 34.987) scale(0.582)">D</text>
+  <text id="s" class="cls-2" transform="translate(36.667 34.987) scale(0.582)">s</text>
+</svg>
